@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&family=Signika:wght@300&display=swap');
+
+body {
+    background-color: #e8ebf1;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#Container {
+margin-top: 200px;
+    
+}
+
+
+#cabecalho {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: #0e43b4;
+    text-shadow: 2px 2px rgb(250, 250, 250);
+    font-weight: normal;
+    font-weight: 600;
+    
+}
+
+#botoes {
+text-align: center;
+
+}
+
+
+#altura, #peso{
+    margin-left: 1em;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(201, 197, 197);
+    box-shadow: 2px 2px rgb(230, 224, 224) ;
+
+}
+
+.calcular {
+    
+    font-weight: bold;
+    margin-left: 1em;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(201, 197, 197);
+    background-color: #aecae0;
+    border-color: #799fbc;
+}
+
+.calcular:hover {
+    background-color: #74a0c2; 
+    border-color: #47769a;
+    transition: 0.5s;
+    font-weight: bold;
+
+}
+
+.explicacao {
+    width: 900px;
+    text-align: justify;
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    text-shadow: 2px 2px rgb(250, 250, 250);
+    
+}
+
+#resultado {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+footer {
+   bottom: 0;
+    width: 100%;
+    position: absolute;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+
+img {
+    width: 25px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.rodape a {
+    margin-bottom: 0;
+    text-shadow: 1px 1px rgb(209, 206, 206);
+    text-decoration: none;
+    
+}
