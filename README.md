@@ -5,5 +5,7 @@ Esse projeto consiste em um sistema que calcula o Índice de massa corporal (IMC
 
 ![calculadora](https://user-images.githubusercontent.com/89872769/227094461-64032da4-5168-4d1f-8f2c-17dcb4104f70.png)
 
+https://nickolasluan.github.io/Calculadora-IMC/
+
 
 
